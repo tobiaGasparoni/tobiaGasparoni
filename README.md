@@ -1,10 +1,7 @@
-### I have experience as a full stack engineer with the following languages/frameworks:
-- ReactJS microfrontends - Current job at www.achievers.com
-- Python microservices - Current job at www.achievers.com
-- Python (Django) - Thesis Project for Undergraduate studies
-- Kotlin - Mobile App as a final project of the Mobile Development class
+### I have experience as a full stack engineer with the following technologies:
+Rest APIs Design | Web Developer | Firebase | Java | Kotlin | Python | Django | TypeScript | Microservices |
 
-### Current repositories explained:
+### Repositories explained:
 - MaaS-Thesis:
 - Movies-App:
 - SchedulerWeb:
