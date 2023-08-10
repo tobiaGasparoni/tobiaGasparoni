@@ -1,5 +1,5 @@
 ### I have experience as a full stack engineer with the following technologies:
-Rest APIs Design | Web Developer | Firebase | Java | Kotlin | Python | Django | TypeScript | Microservices |
+Rest APIs Design | Web Development | Firebase | Kotlin | Python | Django | TypeScript | Microservices |
 
 ### Repositories explained:
 1. **MaaS-Thesis**: this was the final project for my undergraduate journey. It aimed at being a companion tool for consulting firms with optmization models, and related algorithms, as their product. It was created using Django (Python) with a modified file structure that personally guaranteed functional flexibility and scalabilty. In current iterations of the project, you will find this as the main repository for algorithms and optimization models I find interesting enough to study, develop and test.
